@@ -1,3 +1,4 @@
+
 # Index
 
 ## Chapter 1: Introduction to the Atmosphere
@@ -7,7 +8,7 @@
   - Variable Components (e.g., Water Vapor, Aerosols)
 - Layers of the Atmosphere
   - Troposphere
-  - Stratosphere
+  - Stratosphere - without which everyone would be cancerous
   - Mesosphere
   - Thermosphere
   - Exosphere
