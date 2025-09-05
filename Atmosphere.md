@@ -27,6 +27,8 @@
 
 ## Chapter 3: The Stratosphere
 - Structure and Extent
+The stratosphere is the second major layer of Earth’s atmosphere, lying above the troposphere and below the mesosphere. It extends from about 12 kilometers above Earth’s surface at the tropopause (though this boundary varies with latitude and season, being lower near the poles and higher near the equator) up to around 50 kilometers at the stratopause. Unlike the troposphere, the stratosphere is characterized by a temperature inversion: instead of cooling with altitude, temperatures gradually rise with height due to the absorption of ultraviolet (UV) radiation by the ozone layer. This layer contains the highest concentration of ozone in the atmosphere, which plays a crucial role in shielding life on Earth from harmful solar radiation. The relative stability and low turbulence in the stratosphere make it an important region for long-distance flight and the dispersion of volcanic aerosols and pollutants. 
+
 - Ozone Layer and Its Importance
 - Measurement Techniques
   - Satellite Observations
