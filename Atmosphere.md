@@ -2,6 +2,8 @@
 
 ## Chapter 1: Introduction to the Atmosphere
 - What is the Atmosphere?
+### The atmosphere is a layer of gases that surrounds Earth and is held in place by gravity. It  provides essential air for breathing, protects living beings from harmful ultraviolet radiation,  and helps regulate temperature, making life possible.
+
 - Composition of the Atmosphere
   - Major and Minor Gases
   - Variable Components (e.g., Water Vapor, Aerosols)
@@ -39,7 +41,8 @@
   - Ionization and Aurora Phenomena
 - Measurement Techniques
   - Rocket Soundings
-  - Satellite Instruments
+  - Satellite Instruments 
+ ### Sounding Rockets: Used for direct, in situ measurements in the mesosphere and thermosphere, altitudes often unreachable by balloons or satellites (typically 48 to 145 km, but can reach up to 3,000 km for targeted exper) 
 
 ## Chapter 5: Techniques for Measuring Atmospheric Properties
 - Ground-Based Methods
